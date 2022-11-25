@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliasolcina
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and Big Data Analytics
-- 📫 How to reach me @eliasolcina at all media
+- 📫 How to reach me: @eliasolcina at all media, eliasolcina@gmail.com
 - LinkedIn: https://www.linkedin.com/in/eliasolcina/
 
 <!---
